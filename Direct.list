@@ -602,3 +602,6 @@ DOMAIN-SUFFIX,dl.gl-inet.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,dgithub.xyz
 DOMAIN-SUFFIX,my.classicdance.net
+DOMAIN-SUFFIX,firmware-selector.immortalwrt.org
+DOMAIN-SUFFIX,firmware-selector.openwrt.org
+DOMAIN-SUFFIX,openwrt.ai
